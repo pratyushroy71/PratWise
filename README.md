@@ -1,0 +1,2 @@
+# PratWise
+splitwise but better
